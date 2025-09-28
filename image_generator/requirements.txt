@@ -1,0 +1,9 @@
+crewai
+python-dotenv
+openai
+requests
+diffusers
+torch
+transformers
+pyyaml
+accelerate

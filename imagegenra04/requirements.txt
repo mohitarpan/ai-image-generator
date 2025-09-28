@@ -1,0 +1,3 @@
+crewai
+stability-sdk
+python-dotenv
